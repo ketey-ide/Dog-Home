@@ -1,2 +1,2 @@
-# Dino-Home
-This is home of dinosaurmod.
+# Ketey-Home
+This is home of Ketey IDE.
