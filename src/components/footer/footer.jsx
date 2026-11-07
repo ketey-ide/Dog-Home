@@ -10,7 +10,7 @@ import styles from './footer.css';
 const messages = defineMessages({
     notaffiliatedText: {
         id: "home.footer.notaffiliated",
-        defaultMessage: 'DinosaurMod is not affiliated with Scratch, TurboWarp, PenguinMod, the Scratch Team, or the Scratch Foundation.',
+        defaultMessage: 'Ketey IDE is not affiliated with Scratch, TurboWarp, PenguinMod, Snail IDE, the Scratch Team, or the Scratch Foundation.',
         description: 'not affiliated text'
     },
     websiteText: {
