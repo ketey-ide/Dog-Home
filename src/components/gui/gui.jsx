@@ -27,12 +27,12 @@ const pathname = window.location.pathname;
 const messages = defineMessages({
     homePageText: {
         id: "home.section.welcomemessage",
-        defaultMessage: 'Welcome to the Home Page of DinosaurMod!',
+        defaultMessage: 'Welcome to the Home Page of Ketey IDE!',
         description: 'welcome text'
     },
     examplesPageText: {
         id: "home.section.examplesmessage",
-        defaultMessage: 'Welcome to the Examples Page of DinosaurMod!',
+        defaultMessage: 'Welcome to the Examples Page of Ketey IDE!',
         description: 'examples text'
     },
 })
